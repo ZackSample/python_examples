@@ -2,7 +2,7 @@
 name = "firstmodel"
 version = "0.1.0"
 authors = [
-    {name = "Matt Mulholland", email = "mmulholland@ets.org"},
+    {name = "Zack Sample", email = "samplez1@montclair.edu"},
 ]
 description = "Package for running content modeling experiments."
 
